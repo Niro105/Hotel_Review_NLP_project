@@ -12,6 +12,8 @@ Dataset contains customer reivew and ratings to the perticular reviews.
 * nltk
 * neattext
 * pickle(save model)
+
+ 
  Approach
 We have approached in 2 way for text preprocessing
 neattext preprocessing method
