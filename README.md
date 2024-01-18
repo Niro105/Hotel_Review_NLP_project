@@ -30,6 +30,8 @@ from above these we have selected SVM is the final model.Our model rendered accu
 # Deployment
 To deploy this project run using streamlit
 
+# https://nlpproject-aswgzdmjm7a3vjbz4ubksl.streamlit.app/
+
 ![image](https://github.com/Niro105/NLP_project/assets/126443419/84236ead-2bf7-41d7-8834-ac92d2bbfe91)
 
 ![image](https://github.com/Niro105/NLP_project/assets/126443419/2ca880b1-c1aa-4d5a-89a5-0c98f1fa1fdb)
