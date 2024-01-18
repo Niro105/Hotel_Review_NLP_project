@@ -5,7 +5,7 @@ In this project, our goal is to examine how travelers are communicating their po
 Dataset contains customer reivew and ratings to the perticular reviews.
 
 # Requirements
-python
+*python
 pandas
 sklearn
 numpy
