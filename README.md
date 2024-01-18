@@ -28,7 +28,13 @@ Reducing repetition of using the same code for text preprocessing
 There are many libraries and algorithms used to deal with NLP-based problems. A regular expression(re) is mostly used library for text cleaning. NLTK(Natural language toolkit) and spacy are the next level library used for performing Natural language tasks like removing stopwords, named entity recognition, part of speech tagging, phrase matching, etc.
 
 # Model Building
-We have created the model like Logistic Regression,Random Forest and XGboost, out of these we have selected LR is the final model.Our model rendered accuracy of 89.73%,Saved this model using pickle.
+We have created the model like 
+* LR algorithm gives 96 % accuracy.
+* SVM algorithm gives  97% accuracy.
+* NB algorithm gives 95%  accuracy.
+* Random Forest algorithm gives 95% accuracy.
+* Gradient Boost algorithm gives 96 % accuracy
+  from above these we have selected SVM is the final model.Our model rendered accuracy of 97%, Saved this model using pickle.
 
 # Deployment
 To deploy this project run using streamlit
