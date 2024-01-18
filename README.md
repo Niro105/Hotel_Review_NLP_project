@@ -33,8 +33,9 @@ We have created the model like
 * SVM algorithm gives  97% accuracy.
 * NB algorithm gives 95%  accuracy.
 * Random Forest algorithm gives 95% accuracy.
-* Gradient Boost algorithm gives 96 % accuracy
-  from above these we have selected SVM is the final model.Our model rendered accuracy of 97%, Saved this model using pickle.
+* Gradient Boost algorithm gives 96 % accuracy.
+  
+from above these we have selected SVM is the final model.Our model rendered accuracy of 97%, Saved this model using pickle.
 
 # Deployment
 To deploy this project run using streamlit
