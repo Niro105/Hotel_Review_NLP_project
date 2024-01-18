@@ -15,11 +15,11 @@ Dataset contains customer reivew and ratings to the perticular reviews.
 # Approach
 We have approached in 2 way for text preprocessing
 neattext preprocessing method
-using nltk preprocessing method
+# using nltk preprocessing method
 1) Using neattext library
 NeatText is a simple Natural Language Processing package for cleaning text data and pre-processing text data.
 
-Cleaning of unstructured text data
+# Cleaning of unstructured text data
 Reduce noise [special characters,stopwords]
 Reducing repetition of using the same code for text preprocessing
  2) Using NLTK(Natural language toolkit) library
